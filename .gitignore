@@ -1,5 +1,6 @@
 ### Project ###
 data/
+temp/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/git,macos,linux,windows,sublimetext,intellij+iml,visualstudiocode,python,jupyternotebooks
